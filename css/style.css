@@ -31,4 +31,11 @@ h2 {
 p {
   color: rgb(111,127,122);
 }
+img {
+   border: 5px rgb(152,173,166) solid;
+}
+
+
+}
+
 }
